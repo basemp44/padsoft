@@ -1,0 +1,21 @@
+Acción
+Animación
+Aventuras
+Ciencia Ficción
+Comedia
+Crímenes
+Documental
+Drama
+Erótica
+Espionaje
+Fantástico
+Histórica
+Infantil
+Intriga
+Musical
+Policiaca
+Romance
+Suspense
+Terror
+Thriller
+Western

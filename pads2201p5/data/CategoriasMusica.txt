@@ -1,0 +1,19 @@
+Barroca
+Blues
+Clasica
+Country
+Disco
+Flamenco
+Folk
+Godspell
+Heavy metal
+Hip hop
+Jazz
+Opera
+Poesía
+Pop
+Reggaton
+Rock&Roll
+Rumba
+Salsa
+Zarzuela

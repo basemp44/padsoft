@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam="  -encoding UTF-8 -charset UTF-8 -docencoding UTF-8 " author="true" classpath="lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar:lib/joda-time-2.3.jar:lib/jboss-logging-3.1.3.GA.jar:lib/hibernate-jpa-2.1-api-1.0.0.Final.jar:lib/antlr-2.7.7.jar:lib/hibernate-entitymanager-4.3.4.Final.jar:lib/jboss-logging-annotations-1.2.0.Beta1.jar:lib/pasarelaPago.jar:lib/hsqldb.jar:lib/asg.cliche.jar:lib/hibernate-core-4.3.4.Final.jar:lib/dom4j-1.6.1.jar:lib/javassist-3.18.1-GA.jar:lib/jandex-1.1.0.Final.jar:lib/hibernate-commons-annotations-4.0.4.Final.jar:/home/victor/dev/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar:/home/victor/dev/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="padsoft.videoclub,padsoft.videoclub.excepciones" source="1.7" sourcefiles="src/padsoft/Main.java" sourcepath="src:tests" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
